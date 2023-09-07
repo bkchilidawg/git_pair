@@ -1,4 +1,4 @@
-class Pair 
+class Pairs
   def initialize
     @a = blaine 
     @b =sooyung
